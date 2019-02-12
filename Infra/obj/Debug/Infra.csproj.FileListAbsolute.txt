@@ -1,0 +1,16 @@
+C:\Users\ricar\source\repos\AnalProg\Infra\bin\Debug\Infra.dll.config
+C:\Users\ricar\source\repos\AnalProg\Infra\bin\Debug\Infra.dll
+C:\Users\ricar\source\repos\AnalProg\Infra\bin\Debug\Infra.pdb
+C:\Users\ricar\source\repos\AnalProg\Infra\bin\Debug\Domain.dll
+C:\Users\ricar\source\repos\AnalProg\Infra\bin\Debug\EntityFramework.dll
+C:\Users\ricar\source\repos\AnalProg\Infra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ricar\source\repos\AnalProg\Infra\bin\Debug\Domain.pdb
+C:\Users\ricar\source\repos\AnalProg\Infra\bin\Debug\EntityFramework.xml
+C:\Users\ricar\source\repos\AnalProg\Infra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ricar\source\repos\AnalProg\Infra\obj\Debug\Infra.csprojAssemblyReference.cache
+C:\Users\ricar\source\repos\AnalProg\Infra\obj\Debug\Infra.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\AnalProg\Infra\obj\Debug\Infra.csproj.CopyComplete
+C:\Users\ricar\source\repos\AnalProg\Infra\obj\Debug\Infra.dll
+C:\Users\ricar\source\repos\AnalProg\Infra\obj\Debug\Infra.pdb
+C:\Users\ricar\source\repos\AnalProg\Infra\obj\Debug\Infra.Migrations.Initial.resources
+C:\Users\ricar\source\repos\AnalProg\Infra\obj\Debug\Infra.csproj.GenerateResource.cache

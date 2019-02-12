@@ -1,0 +1,17 @@
+C:\Users\ricar\source\repos\AnalProg\Questao1\bin\Debug\Questao1.exe.config
+C:\Users\ricar\source\repos\AnalProg\Questao1\bin\Debug\Questao1.exe
+C:\Users\ricar\source\repos\AnalProg\Questao1\bin\Debug\Questao1.pdb
+C:\Users\ricar\source\repos\AnalProg\Questao1\obj\Debug\Questao1.csprojAssemblyReference.cache
+C:\Users\ricar\source\repos\AnalProg\Questao1\obj\Debug\Questao1.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\AnalProg\Questao1\obj\Debug\Questao1.exe
+C:\Users\ricar\source\repos\AnalProg\Questao1\obj\Debug\Questao1.pdb
+C:\Users\ricar\source\repos\AnalProg\Questao1\bin\Debug\Domain.dll
+C:\Users\ricar\source\repos\AnalProg\Questao1\bin\Debug\Infra.dll
+C:\Users\ricar\source\repos\AnalProg\Questao1\bin\Debug\EntityFramework.dll
+C:\Users\ricar\source\repos\AnalProg\Questao1\bin\Debug\Domain.pdb
+C:\Users\ricar\source\repos\AnalProg\Questao1\bin\Debug\Infra.pdb
+C:\Users\ricar\source\repos\AnalProg\Questao1\bin\Debug\Infra.dll.config
+C:\Users\ricar\source\repos\AnalProg\Questao1\bin\Debug\EntityFramework.xml
+C:\Users\ricar\source\repos\AnalProg\Questao1\obj\Debug\Questao1.csproj.CopyComplete
+C:\Users\ricar\source\repos\AnalProg\Questao1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ricar\source\repos\AnalProg\Questao1\bin\Debug\EntityFramework.SqlServer.xml
